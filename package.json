@@ -1,0 +1,22 @@
+{
+  "name": "Cypress act technical test",
+  "version": "1.0.0",
+  "description": "Act Digital Automation Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "api"
+  ],
+  "author": "Juliana Venâncio",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.7.0"
+  },
+  "devDependencies": {
+    "cypress-file-upload": "^5.0.8",
+    "prettier": "^3.4.2"
+  }
+}
