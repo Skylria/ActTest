@@ -9,7 +9,7 @@ import {
   finishPurchase,
 } from '../../support/utils'
 
-describe('HTTP Requests', () => {
+describe('API Tests', () => {
   let authToken = null
 
   before('get access token', () => {
